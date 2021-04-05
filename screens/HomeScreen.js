@@ -3,10 +3,24 @@ import { Text, View } from 'react-native'
 
 const HomeScreen = () => {
     return (
-        <View>
-            <Text> Home screen</Text>
-        </View>
-    )
+      <View>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+        <Text> Home screen</Text>
+      </View>
+    );
 }
 
 export default HomeScreen
